@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{ page.title }}</title>
+        <!-- link to main stylesheet -->
+        <link rel="stylesheet" type="text/css" href="/css/main.css">
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/research">Research</a></li>
+                <li><a href="/fun">Fun</a></li>
+            </ul>
+        </nav>
+        <div class="container">
+        
+        {{ content }}
+        
+        </div><!-- /.container -->
+        <footer>
+            <ul>
+                <li><a href="mailto:senchp@email.arizona.edu">email</a></li>
+                <li><a href="pgp_pub.key">PGP public key</a></li>
+                <li><a href="https://twitter.com/senchp">twitter.com/senchp</a></li>
+                <li><a href="https://github.com/senchp">github.com/senchp</a></li>
+            </ul>
+        </footer>
+    </body>
+</html>
