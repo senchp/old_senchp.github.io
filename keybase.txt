@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/senchp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://p-senchyna.com
+  * I am senchp (https://keybase.io/senchp) on keybase.
+  * I have a public key ASDZflEY40Mw893rmG9ZydCjAuquGaX1JZ8UCKoEsDrQjAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120d97e5118e34330f3ddeb986f59c9d0a302eaae19a5f5259f1408aa04b03ad08c0a",
+            "host": "keybase.io",
+            "kid": "0120d97e5118e34330f3ddeb986f59c9d0a302eaae19a5f5259f1408aa04b03ad08c0a",
+            "uid": "43e3bde6bd848965c29e95ab35379e19",
+            "username": "senchp"
+        },
+        "service": {
+            "hostname": "p-senchyna.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1468297733,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1468297568,
+        "hash": "203d7ed481b5550ddb7dbd402a824908c988ac4bc1c4d28131e5dca5b5c6e9c6b545dac9a87549f3f4d60e494e2c3f89dace2045b32f0495487ce8083c869652",
+        "seqno": 518740
+    },
+    "prev": "912159f4d5b3c9d1caa05c03a966495a3680f34c830d026c0ecfeb5b4c96bfe5",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2X5RGONDMPPd65hvWcnQowLqrhml9SWfFAiqBLA60IwKp3BheWxvYWTFAvN7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZDk3ZTUxMThlMzQzMzBmM2RkZWI5ODZmNTljOWQwYTMwMmVhYWUxOWE1ZjUyNTlmMTQwOGFhMDRiMDNhZDA4YzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDk3ZTUxMThlMzQzMzBmM2RkZWI5ODZmNTljOWQwYTMwMmVhYWUxOWE1ZjUyNTlmMTQwOGFhMDRiMDNhZDA4YzBhIiwidWlkIjoiNDNlM2JkZTZiZDg0ODk2NWMyOWU5NWFiMzUzNzllMTkiLCJ1c2VybmFtZSI6InNlbmNocCJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoicC1zZW5jaHluYS5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE2In0sImN0aW1lIjoxNDY4Mjk3NzMzLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NjgyOTc1NjgsImhhc2giOiIyMDNkN2VkNDgxYjU1NTBkZGI3ZGJkNDAyYTgyNDkwOGM5ODhhYzRiYzFjNGQyODEzMWU1ZGNhNWI1YzZlOWM2YjU0NWRhYzlhODc1NDlmM2Y0ZDYwZTQ5NGUyYzNmODlkYWNlMjA0NWIzMmYwNDk1NDg3Y2U4MDgzYzg2OTY1MiIsInNlcW5vIjo1MTg3NDB9LCJwcmV2IjoiOTEyMTU5ZjRkNWIzYzlkMWNhYTA1YzAzYTk2NjQ5NWEzNjgwZjM0YzgzMGQwMjZjMGVjZmViNWI0Yzk2YmZlNSIsInNlcW5vIjo5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQKFlp2otzxIO9TX18ovEJMq+z0+s3FAY7FkH19i+tV225KgHk5KgnASqBAQhDOhzusd2dK27jMMYcQNPsEY8Dguoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDfJgao0eKXn+IWrKPEgzJhVlc9zu7Swzdih+vpxVINnKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/senchp
+
+==================================================================
