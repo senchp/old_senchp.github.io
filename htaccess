@@ -2,4 +2,4 @@
 layout: none
 permalink: .htaccess
 ---
-Redirect 301 /senchyna2017 https://arxiv.org/abs/1706.00881
+Redirect /senchyna2017 https://arxiv.org/abs/1706.00881
