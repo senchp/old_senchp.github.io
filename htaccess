@@ -1,0 +1,5 @@
+---
+layout: none
+permalink: .htaccess
+---
+redirect 301 /senchyna2017.html https://arxiv.org/abs/1706.00881
