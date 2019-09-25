@@ -1,4 +1,4 @@
 name: Peter Senchyna
 markdown: kramdown
-gems:
+plugins:
     - jekyll-redirect-from
