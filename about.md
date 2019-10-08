@@ -2,12 +2,6 @@
 layout: default
 title: Peter Senchyna
 ---
-<!-- <img src='images/senchyna_headshot.png' alt='my face' class='left' style="width:200px;height:220px"> -->
-<!--<p>Besides astronomy, I enjoy spending time outside - especially if it involves climbing rocks.
-Arizona is a pretty great place to live if you like mountains and weird plants.
-I try to take <a href="https://instagram.com/psench">pictures</a> occasionally.
-</p>
--->
 
 I am currently a PhD candidate in Astronomy at the University of Arizona, working with Professor Dan Stark.
 My research is focused on using observations in the local universe to understand the lives of stars and galaxies with far fewer heavy elements than our Sun.
